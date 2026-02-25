@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://yourwebsite.com/sitemap.xml
+Sitemap: https://can-you-do-langtang-valley-trek-solo.pages.dev/sitemap.xml
 
 # Google Bot
 User-agent: Googlebot
